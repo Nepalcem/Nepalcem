@@ -1,5 +1,6 @@
 
 ![image](https://www.codewars.com/users/MarkWar/badges/large)
+![](https://komarev.com/ghpvc/?username=nepalcem&style=plastic)
 
 <!--
 **Nepalcem/Nepalcem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
