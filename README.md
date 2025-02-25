@@ -2,7 +2,7 @@
 
 CodeWars: ![image](https://www.codewars.com/users/MarkWar/badges/large)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nepalcem)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nepalcem&layout=compact)
 
 ## My Tech Stack  
 📌 Languages:  
@@ -14,7 +14,7 @@ CodeWars: ![image](https://www.codewars.com/users/MarkWar/badges/large)
 📌 Databases:
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
-📌 Web & Build Tools:  
+📌 Web & Build Tools:
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black)![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ![](https://komarev.com/ghpvc/?username=nepalcem&style=plastic)
