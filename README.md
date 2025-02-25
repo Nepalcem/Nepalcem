@@ -2,7 +2,7 @@
 
 CodeWars: ![image](https://www.codewars.com/users/MarkWar/badges/large)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nepalcem&hide=javascript,html)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nepalcem)
 
 ![](https://komarev.com/ghpvc/?username=nepalcem&style=plastic)
 
