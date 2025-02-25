@@ -4,6 +4,8 @@ CodeWars: ![image](https://www.codewars.com/users/MarkWar/badges/large)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nepalcem)
 
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+
 ![](https://komarev.com/ghpvc/?username=nepalcem&style=plastic)
 
 <!--
